@@ -4,7 +4,7 @@
 
 
 # Here we have created an actual List item which has square brackets ([ ]) at the beginning and the end
-city_list = ['Saskatoon', 'Toronto', 'Edmonton', 'Halifax', 'Montreal', 'Fredricton']
+city_list = ['Saskatoon', 'Toronto', 'Edmonton', 'Halifax', 'Montreal', 'Fredericton']
 
 print("Printing the List gives this:")
 print(city_list)
