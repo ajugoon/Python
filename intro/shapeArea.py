@@ -1,8 +1,6 @@
 # Here is a program to show how to use "if - elif - else"
 # The hash-tag is used to show that these are comments
 # This means that the computer will not look at these lines
-# Author: Mr. Jugoon
-# Upper Canada College
 
 # Put down some options for the user to choose from...
 
