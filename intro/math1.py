@@ -1,8 +1,6 @@
 # Here is a program that shows basic math operations
 # The hash-tag is used to show that these are comments
 # This means that the computer will not look at these lines
-# Author: Mr. Jugoon
-# Upper Canada College
 
 # Tell the user what the program will do...
 
