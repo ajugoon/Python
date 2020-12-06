@@ -1,6 +1,4 @@
 # This is a program that determines the average of 5 numerical grades
-# Author: Mr. Jugoon
-# UCC October 30th, 2020
 
 # This variable stores my total. It has been initalized to '0' to make it an integer
 total = 0 # always an integer
