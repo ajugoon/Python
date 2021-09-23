@@ -42,7 +42,7 @@ elif option == 2:
     print ("You have chosen to find a subset...")
     print ("What is the subset that you want? ")
     print ("Items in the list are numbered positionally from 0 to 5")
-    print ("Remembr you will get one position less than your upper limit!")
+    print ("Remember you will get one position less than your upper limit!")
     sub_start = int(input("What is the start of the subrange? \n"))
     sub_end = int(input("What is the end of the subrange? \n"))
 
