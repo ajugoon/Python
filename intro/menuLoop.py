@@ -87,7 +87,7 @@ def doMoreStuff():
 # Game starts at this point
 # We must call the menu function in order to see our first set of choices
 
-while validChoice == 0:
+while validChoice == False:
 
     # Call your first function which is IN THE WHILE LOOP
     runMenu()
