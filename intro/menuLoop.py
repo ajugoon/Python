@@ -68,12 +68,7 @@ def runMenu():
     else:
         print ("This is not a valid choice")
         print ("Please choose again!")
-        
         validChoice = False
-
-    # This is a way to gracefully exit the program
-    # input("Press ENTER to quit the program...")
-
 
 def doMoreStuff():
 
