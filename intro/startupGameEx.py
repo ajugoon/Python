@@ -1,7 +1,7 @@
-(Store) = """
+(Splash) = """
 
 """
-print (Store)
+print (Splash)
 
 def question1():
   
