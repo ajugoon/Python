@@ -1,5 +1,5 @@
-(Splash) = """
-
+Splash = """
+  # copy and paste your ASCII art here #
 """
 print (Splash)
 
@@ -102,16 +102,3 @@ while (validChoice == False):
         # this will take us back to the beginning of the loop to see this menu again
         print("This is not a valid choice, please try again")
         print("")
-
-
-
-
-
-
-
-
-
- 
-
-  
-  
