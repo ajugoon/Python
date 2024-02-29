@@ -2,7 +2,7 @@ Splash = """
   # copy and paste your ASCII art here #
   # example: https://patorjk.com/software/taag/#p=display&f=Modular&t=Type%20Something%20
 """
-print (Splash)
+# print (Splash)
 
 def question1():
   
